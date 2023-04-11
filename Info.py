@@ -1,5 +1,4 @@
-País = 
+Pais = 
 Estado =  
 Cidade = 
 Rua = 
-
