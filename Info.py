@@ -1,4 +1,4 @@
 Pais = "Brasil"
-Estado =  
+Estado =  "Rio Grande do Sul"
 Cidade = 
 Rua = 
