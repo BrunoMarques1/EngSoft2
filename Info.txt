@@ -1,4 +1,0 @@
-País: 
-Estado: 
-Cidade:
-Rua:
