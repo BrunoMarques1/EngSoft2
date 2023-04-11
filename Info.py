@@ -1,4 +1,4 @@
 Pais = "Brasil"
-Estado =  
-Cidade = 
-Rua = 
+Estado =
+Cidade =
+Rua = "Felipe de Oliveira"
